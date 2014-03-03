@@ -1,0 +1,17 @@
+header{
+    background: url(../images/hearder.JPG) no-repeat no-repeat fixed;
+    background-size: cover;
+    height: 1000px;
+    max-height: 100%;
+    width: 100%;
+    margin: 0 auto;
+    text-shadow: 0 0 10px #000;
+}
+
+.jumbotron{
+    margin: 0;
+    padding: 0;
+    
+}
+
+
